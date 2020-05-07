@@ -1,14 +1,15 @@
 [
         {
             "city": "Адлер",
-            "name": "Магазин \"Дети и мо\"Да",
+            "name": "Магазин \"Дети и мода\"",
             "address": "ул. Демократическая, д. 53А, пав. 108",
             "brand": "no",
             "latitude": "43.426395",
             "longitude": "39.926297",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Аксай",
@@ -20,8 +21,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Алматы",
@@ -30,8 +30,10 @@
             "brand": "no",
             "latitude": "43.233432",
             "longitude": "76.956425",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ангарск",
@@ -41,7 +43,9 @@
             "latitude": "52.511184",
             "longitude": "103.850206",
             "pulka": "yes",
-            "phone": " "
+            "ceremony": " ",
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Ангарск",
@@ -50,9 +54,10 @@
             "brand": "no",
             "latitude": "52.503881",
             "longitude": "103.841810",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Ангарск",
@@ -61,9 +66,10 @@
             "brand": "no",
             "latitude": "52.503881",
             "longitude": "103.841810",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Армавир",
@@ -73,8 +79,9 @@
             "latitude": "44.983327",
             "longitude": "41.096664",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "аул Новая Адыгея",
@@ -84,19 +91,21 @@
             "latitude": "45.014858",
             "longitude": "38.930280",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ахмат-Юрт",
-            "name": "Магазин \"Детская одеж\"Да",
+            "name": "Магазин \"Детская одежда\"",
             "address": "ул. Сакказова, д. 122",
             "brand": "no",
             "latitude": "43.225153",
             "longitude": "46.247417",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Балашиха",
@@ -105,8 +114,10 @@
             "brand": "no",
             "latitude": "55.791982",
             "longitude": "37.978075",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Белгород",
@@ -115,10 +126,10 @@
             "brand": "no",
             "latitude": "50.607929",
             "longitude": "36.580899",
+            "pulka": " ",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Благовещенск",
@@ -128,9 +139,9 @@
             "latitude": "50.258700",
             "longitude": "127.536435",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Брянск",
@@ -152,9 +163,10 @@
             "brand": "no",
             "latitude": "42.821497",
             "longitude": "47.122727",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Владивосток",
@@ -166,8 +178,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Владивосток",
@@ -176,8 +187,10 @@
             "brand": "no",
             "latitude": "43.128604",
             "longitude": "131.892168",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Владивосток",
@@ -187,18 +200,21 @@
             "latitude": "43.212614",
             "longitude": "131.950882",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Владивосток",
-            "name": "Магазин \"Детская одеж\"Да ",
+            "name": "Магазин \"Детская одежда\" ",
             "address": "ТЦ \"Калина молл\", ул. Калинина, д. 8",
             "brand": "no",
             "latitude": "43.102622",
             "longitude": "131.917501",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Владикавказ",
@@ -207,8 +223,10 @@
             "brand": "no",
             "latitude": "43.033599",
             "longitude": "44.642721",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Владикавказ",
@@ -217,8 +235,10 @@
             "brand": "no",
             "latitude": "43.052885",
             "longitude": "44.639101",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Владикавказ",
@@ -228,9 +248,9 @@
             "latitude": "43.034186",
             "longitude": "44.685490",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Владикавказ",
@@ -239,9 +259,10 @@
             "brand": "no",
             "latitude": "43.033151",
             "longitude": "44.681043",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Владикавказ",
@@ -250,8 +271,10 @@
             "brand": "no",
             "latitude": "43.033500",
             "longitude": "44.681726",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Владимир",
@@ -260,8 +283,10 @@
             "brand": "no",
             "latitude": "56.128330",
             "longitude": "40.403032",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Владимир",
@@ -271,7 +296,9 @@
             "latitude": "56.128480",
             "longitude": "40.403949",
             "pulka": "yes",
-            "phone": " "
+            "ceremony": " ",
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Волгоград",
@@ -280,8 +307,10 @@
             "brand": "no",
             "latitude": "48.782856",
             "longitude": "44.563032",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Воронеж",
@@ -290,8 +319,10 @@
             "brand": "no",
             "latitude": "51.662322",
             "longitude": "39.198041",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Воронеж",
@@ -301,9 +332,9 @@
             "latitude": "51.660915",
             "longitude": "39.202335",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Воскресенск",
@@ -312,8 +343,10 @@
             "brand": "no",
             "latitude": "55.322215",
             "longitude": "38.676560",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Грозный",
@@ -322,8 +355,10 @@
             "brand": "no",
             "latitude": "43.334801",
             "longitude": "45.709605",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Грозный",
@@ -332,8 +367,10 @@
             "brand": "no",
             "latitude": "43.323803",
             "longitude": "45.686213",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Грозный",
@@ -343,8 +380,9 @@
             "latitude": "43.321304",
             "longitude": "45.691199",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Дзержинский",
@@ -353,8 +391,10 @@
             "brand": "no",
             "latitude": "55.630812",
             "longitude": "37.853892",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Екатеринбург",
@@ -363,8 +403,10 @@
             "brand": "no",
             "latitude": "56.838312",
             "longitude": "60.595040",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Екатеринбург",
@@ -376,7 +418,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Екатеринбург",
@@ -388,7 +430,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Екатеринбург",
@@ -400,7 +442,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Екатеринбург",
@@ -409,8 +451,10 @@
             "brand": "no",
             "latitude": "56.834653",
             "longitude": "60.591285",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Екатеринбург",
@@ -419,8 +463,10 @@
             "brand": "no",
             "latitude": "56.826065",
             "longitude": "60.589991",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Екатеринбург",
@@ -429,8 +475,10 @@
             "brand": "no",
             "latitude": "56.892719",
             "longitude": "60.616977",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Екатеринбург",
@@ -439,8 +487,10 @@
             "brand": "no",
             "latitude": "56.804416",
             "longitude": "60.601400",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Иваново",
@@ -449,8 +499,10 @@
             "brand": "no",
             "latitude": "57.005529",
             "longitude": "40.985302",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ижевск",
@@ -460,9 +512,9 @@
             "latitude": "56.876904",
             "longitude": "53.204412",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Ижевск",
@@ -471,8 +523,10 @@
             "brand": "no",
             "latitude": "56.847553",
             "longitude": "53.202920",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Избербаш",
@@ -482,9 +536,9 @@
             "latitude": "42.560872",
             "longitude": "47.872856",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Иркутск",
@@ -494,8 +548,9 @@
             "latitude": "52.267653",
             "longitude": "104.289140",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Иркутск",
@@ -505,8 +560,9 @@
             "latitude": "52.265134",
             "longitude": "104.223033",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Иркутск",
@@ -516,8 +572,9 @@
             "latitude": "52.267829",
             "longitude": "104.315200",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Иркутск",
@@ -527,8 +584,9 @@
             "latitude": "52.279677",
             "longitude": "104.288179",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Иркутск",
@@ -540,8 +598,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Истра",
@@ -550,8 +607,10 @@
             "brand": "no",
             "latitude": "55.913424",
             "longitude": "36.864811",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Казань",
@@ -561,8 +620,9 @@
             "latitude": "55.793900",
             "longitude": "49.149506",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Казань",
@@ -574,7 +634,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Калининград",
@@ -584,9 +644,9 @@
             "latitude": "54.718790",
             "longitude": "20.495396",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Каспийск",
@@ -595,8 +655,10 @@
             "brand": "no",
             "latitude": "42.886295",
             "longitude": "47.636186",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Кемерово",
@@ -605,8 +667,10 @@
             "brand": "no",
             "latitude": "55.343614",
             "longitude": "86.095309",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Кемерово",
@@ -615,8 +679,10 @@
             "brand": "no",
             "latitude": "55.343968",
             "longitude": "86.181332",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Кизилюрт",
@@ -625,18 +691,22 @@
             "brand": "no",
             "latitude": "43.197329",
             "longitude": "46.875511",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Кизляр",
             "name": "Магазин \"Bebe Chokolat\"",
-            "address": "ул. 40 лет дагестана д. 2/2",
+            "address": "ул. 40 лет Дагестана д. 2/2",
             "brand": "no",
             "latitude": "43.838953",
             "longitude": "46.729499",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Киржач",
@@ -645,32 +715,10 @@
             "brand": "no",
             "latitude": "56.159604",
             "longitude": "38.867434",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
-        },
-        {
-            "city": "Москва",
-            "name": "ТК \"OUTLET VILLAGE BELAYA DACHA\"",
-            "address": "Новорязанское шоссе, д. 8",
-            "brand": "yes",
-            "latitude": "55.661176",
-            "longitude": "37.880312",
-            "pulka": "yes",
-            "school": "yes",
-            "phone": "+7 (985) 865-79-47"
-        },
-        {
-            "city": "Москва",
-            "name": "\"СТОКМАНН\"",
-            "address": "ТЦ \"МЕГА\", г. Котельники, 1-й Покровский проезд, д. 5",
-            "brand": "no",
-            "latitude": "55.653294",
-            "longitude": "37.844208",
-            "pulka": "yes",
-            "ceremony": "yes",
-            "school": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Красногорск",
@@ -680,19 +728,9 @@
             "latitude": "55.815848",
             "longitude": "37.362729",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
-        },
-        {
-            "city": "Красногорск",
-            "name": "Магазин \"Kanz\"",
-            "address": "ТЦ \"Вегас Крокус Сити\", г. Красногорск, ул. Международная, д. 12, МКАД, 66-й км",
-            "brand": "no",
-            "latitude": "55.821032",
-            "longitude": "37.386202",
-            "pulka": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Красногорск",
@@ -702,7 +740,9 @@
             "latitude": "55.821032",
             "longitude": "37.386202",
             "pulka": "yes",
-            "phone": " "
+            "ceremony": " ",
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Краснодар",
@@ -724,8 +764,10 @@
             "brand": "no",
             "latitude": "46.085017",
             "longitude": "38.973840",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Краснодар",
@@ -734,8 +776,10 @@
             "brand": "no",
             "latitude": "46.324654",
             "longitude": "39.386319",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Краснодар",
@@ -747,8 +791,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Краснодар",
@@ -759,7 +802,8 @@
             "longitude": "39.122529",
             "pulka": "yes",
             "ceremony": "yes",
-            "phone": " "
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Кубинка",
@@ -768,9 +812,10 @@
             "brand": "no",
             "latitude": "55.578615",
             "longitude": "36.692739",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Курск",
@@ -780,8 +825,9 @@
             "latitude": "51.733675",
             "longitude": "36.192503",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Курск",
@@ -793,8 +839,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Курск",
@@ -806,8 +851,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Липецк",
@@ -816,8 +860,10 @@
             "brand": "no",
             "latitude": "52.590885",
             "longitude": "39.559541",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Липецк",
@@ -826,8 +872,10 @@
             "brand": "no",
             "latitude": "52.604352",
             "longitude": "39.581945",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Липецк",
@@ -836,8 +884,10 @@
             "brand": "no",
             "latitude": "52.592357",
             "longitude": "39.504331",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Махачкала",
@@ -862,8 +912,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Махачкала",
@@ -875,21 +924,19 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Махачкала",
             "name": "Магазин \"Чудо - Чадо\"",
-            "address": "ул. дахадаева, д. 92, 1 этаж",
+            "address": "ул. Дахадаева, д. 92, 1 этаж",
             "brand": "no",
             "latitude": "42.973437",
             "longitude": "47.498376",
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Махачкала",
@@ -901,8 +948,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Махачкала",
@@ -914,8 +960,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -945,6 +990,19 @@
         },
         {
             "city": "Москва",
+            "name": "ТК \"OUTLET VILLAGE BELAYA DACHA\"",
+            "address": "Новорязанское шоссе, д. 8",
+            "brand": "yes",
+            "latitude": "55.661176",
+            "longitude": "37.880312",
+            "pulka": "yes",
+            "ceremony": "yes",
+            "school": "yes",
+            "life": "yes",
+            "phone": "+7 (985) 865-79-47"
+        },
+        {
+            "city": "Москва",
             "name": "ТЦ \"THE OUTLET\"",
             "address": "Красногорский район, вблизи дер. Воронки 2\\08 СКОРО ОТКРЫТИЕ",
             "brand": "yes",
@@ -953,8 +1011,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -978,12 +1035,13 @@
             "longitude": "37.422027",
             "pulka": "yes",
             "ceremony": "yes",
+            "school": "yes",
             "life": "yes",
             "phone": "+7 (916) 280-02-13"
         },
         {
             "city": "Москва",
-            "name": "Магазин \"Детская одеж\"Да",
+            "name": "Магазин \"Детская одежда\"",
             "address": "ТЦ \"Большая Медведица\", Студеный пр-д, д. 7А, 2 этаж, пав. 50/51",
             "brand": "no",
             "latitude": "55.893692",
@@ -991,8 +1049,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1001,8 +1058,10 @@
             "brand": "no",
             "latitude": "55.604483",
             "longitude": "37.489526",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1011,8 +1070,10 @@
             "brand": "no",
             "latitude": "55.677951",
             "longitude": "37.466637",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1021,8 +1082,10 @@
             "brand": "no",
             "latitude": "55.701298",
             "longitude": "37.503837",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1031,8 +1094,10 @@
             "brand": "no",
             "latitude": "55.795499",
             "longitude": "37.593318",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1041,9 +1106,10 @@
             "brand": "no",
             "latitude": "55.738536",
             "longitude": "37.270391",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1052,9 +1118,10 @@
             "brand": "no",
             "latitude": "55.799912",
             "longitude": "37.279959",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1063,9 +1130,10 @@
             "brand": "no",
             "latitude": "55.742433",
             "longitude": "37.429869",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1074,8 +1142,10 @@
             "brand": "no",
             "latitude": "55.893854",
             "longitude": "37.389607",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1087,8 +1157,19 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
+        },
+        {
+            "city": "Москва",
+            "name": "Магазин \"Kanz\"",
+            "address": "ТЦ \"Вегас Крокус Сити\", г. Красногорск, ул. Международная, д. 12, МКАД, 66-й км",
+            "brand": "no",
+            "latitude": "55.821032",
+            "longitude": "37.386202",
+            "pulka": "yes",
+            "ceremony": " ",
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1098,8 +1179,9 @@
             "latitude": "55.790231",
             "longitude": "37.531280",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1108,9 +1190,10 @@
             "brand": "no",
             "latitude": "55.640274",
             "longitude": "37.621938",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1120,9 +1203,9 @@
             "latitude": "55.762905",
             "longitude": "37.632260",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1131,8 +1214,10 @@
             "brand": "no",
             "latitude": "55.656031",
             "longitude": "37.541503",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1142,9 +1227,9 @@
             "latitude": "55.784951",
             "longitude": "37.715821",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1154,9 +1239,9 @@
             "latitude": "55.570711",
             "longitude": "37.564707",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1168,8 +1253,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1178,8 +1262,10 @@
             "brand": "no",
             "latitude": "55.682529",
             "longitude": "37.535996",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1188,9 +1274,10 @@
             "brand": "no",
             "latitude": "55.754638",
             "longitude": "37.621633",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Москва",
@@ -1199,8 +1286,10 @@
             "brand": "no",
             "latitude": "55.760038",
             "longitude": "37.625846",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1209,8 +1298,10 @@
             "brand": "no",
             "latitude": "55.711574",
             "longitude": "37.587407",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1219,8 +1310,10 @@
             "brand": "no",
             "latitude": "55.841705",
             "longitude": "37.484855",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1230,17 +1323,21 @@
             "latitude": "55.739083",
             "longitude": "37.476061",
             "pulka": "yes",
-            "phone": " "
+            "ceremony": " ",
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Москва",
-            "name": "Магазин \"Непосе\"Да",
+            "name": "Магазин \"Непоседа\"",
             "address": "ТЦ \"Галерея Неглинная\", Трубная площадь, д. 2",
             "brand": "no",
             "latitude": "55.766491",
             "longitude": "37.622333",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1249,8 +1346,10 @@
             "brand": "no",
             "latitude": "55.760195",
             "longitude": "37.624651",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1259,8 +1358,10 @@
             "brand": "no",
             "latitude": "55.695829",
             "longitude": "37.557682",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1269,8 +1370,10 @@
             "brand": "no",
             "latitude": "55.612045",
             "longitude": "37.732718",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1282,7 +1385,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1294,7 +1397,19 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
+        },
+        {
+            "city": "Москва",
+            "name": "\"СТОКМАНН\"",
+            "address": "ТЦ \"МЕГА\", г. Котельники, 1-й Покровский проезд, д. 5",
+            "brand": "no",
+            "latitude": "55.653294",
+            "longitude": "37.844208",
+            "pulka": "yes",
+            "ceremony": "yes",
+            "school": "yes",
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1303,8 +1418,22 @@
             "brand": "no",
             "latitude": "55.602891",
             "longitude": "37.491044",
+            "pulka": " ",
             "ceremony": "yes",
-            "phone": " "
+            "school": " ",
+            "life": " "
+        },
+        {
+            "city": "Москва",
+            "name": "\"СТОКМАНН\"",
+            "address": "ТЦ \"МЕГА\", Московская область, г. Химки, микрорайон ИКЕА, корпус 2",
+            "brand": "no",
+            "latitude": "55.911143",
+            "longitude": "37.396800",
+            "pulka": "yes",
+            "ceremony": "yes",
+            "school": "yes",
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1313,8 +1442,10 @@
             "brand": "no",
             "latitude": "55.823211",
             "longitude": "37.497468",
+            "pulka": " ",
             "ceremony": "yes",
-            "phone": " "
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1326,7 +1457,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1335,9 +1466,10 @@
             "brand": "no",
             "latitude": "55.602891",
             "longitude": "37.491044",
+            "pulka": " ",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1346,8 +1478,10 @@
             "brand": "no",
             "latitude": "55.845991",
             "longitude": "37.661785",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1356,8 +1490,10 @@
             "brand": "no",
             "latitude": "55.630223",
             "longitude": "37.474507",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1366,8 +1502,10 @@
             "brand": "no",
             "latitude": "55.754000",
             "longitude": "37.405920",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1376,8 +1514,10 @@
             "brand": "no",
             "latitude": "55.655453",
             "longitude": "37.572010",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1386,8 +1526,10 @@
             "brand": "no",
             "latitude": "55.704098",
             "longitude": "37.765785",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1396,8 +1538,10 @@
             "brand": "no",
             "latitude": "55.856442",
             "longitude": "37.582817",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1406,8 +1550,10 @@
             "brand": "no",
             "latitude": "55.744632",
             "longitude": "37.566072",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1416,8 +1562,10 @@
             "brand": "no",
             "latitude": "55.795499",
             "longitude": "37.593318",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Москва",
@@ -1426,29 +1574,34 @@
             "brand": "no",
             "latitude": "55.760038",
             "longitude": "37.625846",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Московская область",
             "name": "Магазин \"Sweet Glamour\"",
-            "address": "ТЦ \"Отра\"Да, 7-й км Пятницкого шоссе, владение 2",
+            "address": "ТЦ \"Отрада\", 7-й км Пятницкого шоссе, владение 2",
             "brand": "no",
             "latitude": "55.876274",
             "longitude": "37.331549",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Московская область",
             "name": "Магазин \"Франтик и Фифочка\"",
-            "address": "ТЦ \"Павлово Подворье\", Истринский р-н, с/пос. Павлово-Слободское, д. Новинки, д. 115",
+            "address": "ТЦ \"Павлово Подворье\", Истринский р-н, с/пос. Павлово-Слободское, д. Новинки, д. 115 (дер.Новинки, 14 км МКАД по Новорижскому ш.)",
             "brand": "no",
             "latitude": "55.810447",
             "longitude": "37.128426",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Московская область",
@@ -1457,8 +1610,10 @@
             "brand": "no",
             "latitude": "55.810653",
             "longitude": "37.013698",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Московская область",
@@ -1467,8 +1622,10 @@
             "brand": "no",
             "latitude": "55.799699",
             "longitude": "37.273967",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Мурманск",
@@ -1477,8 +1634,10 @@
             "brand": "no",
             "latitude": "68.956985",
             "longitude": "33.067489",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Набережные Челны",
@@ -1488,8 +1647,9 @@
             "latitude": "55.739792",
             "longitude": "52.405414",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Набережные Челны",
@@ -1498,8 +1658,10 @@
             "brand": "no",
             "latitude": "55.730705",
             "longitude": "52.392541",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Набережные Челны",
@@ -1508,8 +1670,10 @@
             "brand": "no",
             "latitude": "55.739792",
             "longitude": "52.405414",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Назрань",
@@ -1518,18 +1682,22 @@
             "brand": "no",
             "latitude": "43.223303",
             "longitude": "44.749585",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Нальчик",
-            "name": "Магазин \"Плаnoа Детства\"",
+            "name": "Магазин \"Планета Детства\"",
             "address": "ул. Тарчокова, д. 71",
             "brand": "no",
             "latitude": "43.480955",
             "longitude": "43.570447",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Наро-Фоминск",
@@ -1538,9 +1706,10 @@
             "brand": "no",
             "latitude": "55.382053",
             "longitude": "36.720443",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Находка",
@@ -1550,9 +1719,9 @@
             "latitude": "42.828685",
             "longitude": "132.895748",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Находка",
@@ -1561,8 +1730,10 @@
             "brand": "no",
             "latitude": "42.812312",
             "longitude": "132.865556",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Нижневартовск",
@@ -1572,9 +1743,9 @@
             "latitude": "60.936534",
             "longitude": "76.585214",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Нижний Новгород",
@@ -1583,8 +1754,10 @@
             "brand": "no",
             "latitude": "56.316903",
             "longitude": "44.020494",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Нижний Новгород",
@@ -1593,29 +1766,34 @@
             "brand": "no",
             "latitude": "56.307631",
             "longitude": "44.073908",
+            "pulka": " ",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Нижний Тагил",
             "name": "Магазин \"Gulliver\"",
-            "address": "ТЦ \"Александровский Пассаж\", пр-т Ленина, д. 22",
+            "address": "ТЦ \"Александровский Пассаж\", пр-т Ленина, д. 22 ",
             "brand": "no",
             "latitude": "57.908170",
             "longitude": "59.959196",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Нижний Тагил",
-            "name": "Магазин \"Киндер Мо\"Да",
+            "name": "Магазин \"Киндер Мода\"",
             "address": "пр-т Мира, д. 15/ ул. Строителей, д. 10",
             "brand": "no",
             "latitude": "57.908743",
             "longitude": "59.981796",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Новороссийск",
@@ -1625,8 +1803,9 @@
             "latitude": "44.725225",
             "longitude": "37.762982",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Новосибирск",
@@ -1635,8 +1814,10 @@
             "brand": "no",
             "latitude": "55.030179",
             "longitude": "82.915992",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Новосибирск",
@@ -1645,8 +1826,10 @@
             "brand": "no",
             "latitude": "55.017823",
             "longitude": "82.924176",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Новосибирск",
@@ -1658,7 +1841,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Новосибирск",
@@ -1670,7 +1853,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ногинск",
@@ -1679,9 +1862,10 @@
             "brand": "no",
             "latitude": "55.853213",
             "longitude": "38.441938",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Ноябрьск",
@@ -1690,10 +1874,10 @@
             "brand": "no",
             "latitude": "63.196366",
             "longitude": "75.442287",
+            "pulka": " ",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Обнинск",
@@ -1702,8 +1886,10 @@
             "brand": "no",
             "latitude": "55.117952",
             "longitude": "36.592684",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Обнинск",
@@ -1712,8 +1898,10 @@
             "brand": "no",
             "latitude": "55.116897",
             "longitude": "36.593268",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Одинцово",
@@ -1725,8 +1913,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Октябрьский",
@@ -1736,9 +1923,9 @@
             "latitude": "54.484629",
             "longitude": "53.463459",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Орел",
@@ -1747,8 +1934,10 @@
             "brand": "no",
             "latitude": "52.974210",
             "longitude": "36.068275",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Оренбург",
@@ -1760,28 +1949,31 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Оренбург",
-            "name": "Магазин \"Непосе\"Да",
+            "name": "Магазин \"Непоседа\"",
             "address": "ТЦ \"Север\", пр-т Дзержинского, д. 23",
             "brand": "no",
             "latitude": "51.833429",
             "longitude": "55.128827",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Оренбург",
-            "name": "Магазин \"Непосе\"Да",
-            "address": "ТЦ \"Арма\"Да, Шарлыкское ш., д. 1/2",
+            "name": "Магазин \"Непоседа\"",
+            "address": "ТЦ \"Армада\", Шарлыкское ш., д. 1/2",
             "brand": "no",
             "latitude": "51.843890",
             "longitude": "55.117706",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Орск",
@@ -1790,8 +1982,10 @@
             "brand": "no",
             "latitude": "51.229554",
             "longitude": "58.484592",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Пермь",
@@ -1801,9 +1995,9 @@
             "latitude": "57.997541",
             "longitude": "56.253590",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Пермь",
@@ -1813,9 +2007,9 @@
             "latitude": "57.997541",
             "longitude": "56.253590",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Пермь",
@@ -1824,18 +2018,22 @@
             "brand": "no",
             "latitude": "58.007408",
             "longitude": "56.211747",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Пермь",
             "name": "Магазин \"САМИ С УСАМИ\"",
-            "address": "ТЦ \"Времена го\"Да, ул. Докучаева, д. 42Б",
+            "address": "ТЦ \"Времена года\", ул. Докучаева, д. 42Б",
             "brand": "no",
             "latitude": "58.035840",
             "longitude": "56.144148",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Петропавловск-Камчатский",
@@ -1844,8 +2042,10 @@
             "brand": "no",
             "latitude": "53.056988",
             "longitude": "158.635050",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Пятигорск",
@@ -1854,8 +2054,10 @@
             "brand": "no",
             "latitude": "44.061066",
             "longitude": "43.066070",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Пятигорск",
@@ -1865,8 +2067,9 @@
             "latitude": "44.042686",
             "longitude": "43.063977",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Республика Адыгея",
@@ -1876,8 +2079,9 @@
             "latitude": "45.013084",
             "longitude": "38.929328",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Реутов",
@@ -1886,8 +2090,10 @@
             "brand": "no",
             "latitude": "55.752283",
             "longitude": "37.887247",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ростов-на-Дону",
@@ -1899,8 +2105,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Ростов-на-Дону",
@@ -1912,8 +2117,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Ростов-на-Дону",
@@ -1925,7 +2129,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ростов-на-Дону",
@@ -1937,7 +2141,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Рязань",
@@ -1947,9 +2151,9 @@
             "latitude": "54.634365",
             "longitude": "39.688800",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "с.Каякент",
@@ -1959,8 +2163,9 @@
             "latitude": "42.397572",
             "longitude": "47.904262",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "с.Каякент",
@@ -1970,8 +2175,9 @@
             "latitude": "42.397572",
             "longitude": "47.904262",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Самара",
@@ -1980,9 +2186,10 @@
             "brand": "no",
             "latitude": "53.215478",
             "longitude": "50.134096",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Самара",
@@ -1991,9 +2198,10 @@
             "brand": "no",
             "latitude": "53.190785",
             "longitude": "50.099484",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Самара",
@@ -2002,8 +2210,10 @@
             "brand": "no",
             "latitude": "53.236502",
             "longitude": "50.191175",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Самара",
@@ -2012,8 +2222,10 @@
             "brand": "no",
             "latitude": "53.212571",
             "longitude": "50.181823",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2022,9 +2234,10 @@
             "brand": "no",
             "latitude": "59.977481",
             "longitude": "30.317692",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Санкт-Петербург",
@@ -2033,9 +2246,10 @@
             "brand": "no",
             "latitude": "59.940132",
             "longitude": "30.418060",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Санкт-Петербург",
@@ -2045,8 +2259,9 @@
             "latitude": "60.059086",
             "longitude": "30.335020",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2056,8 +2271,9 @@
             "latitude": "59.987600",
             "longitude": "30.353903",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2067,8 +2283,9 @@
             "latitude": "59.819802",
             "longitude": "30.317252",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2078,8 +2295,9 @@
             "latitude": "59.990899",
             "longitude": "30.205780",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2089,8 +2307,9 @@
             "latitude": "59.931941",
             "longitude": "30.359149",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2100,8 +2319,9 @@
             "latitude": "59.868948",
             "longitude": "30.350480",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2111,8 +2331,9 @@
             "latitude": "60.005374",
             "longitude": "30.300875",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2124,7 +2345,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Саратов",
@@ -2134,7 +2355,9 @@
             "latitude": "51.532470",
             "longitude": "46.023890",
             "pulka": "yes",
-            "phone": " "
+            "ceremony": " ",
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Саратов",
@@ -2143,9 +2366,10 @@
             "brand": "no",
             "latitude": "51.534156",
             "longitude": "46.025085",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Семей",
@@ -2155,9 +2379,9 @@
             "latitude": "50.415183",
             "longitude": "80.252784",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Семей",
@@ -2167,9 +2391,9 @@
             "latitude": "50.409758",
             "longitude": "80.256143",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Смоленск",
@@ -2181,8 +2405,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Сочи",
@@ -2192,29 +2415,33 @@
             "latitude": "43.606247",
             "longitude": "39.732314",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Сочи",
             "name": "Магазин \"Модные Дети\"",
-            "address": "Московская улица, д. 22",
+            "address": "Московская улица, д. 22 ",
             "brand": "no",
             "latitude": "43.594496",
             "longitude": "39.723044",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Сочи - Адлер",
-            "name": "Магазин \"Кидсмо\"Да",
+            "name": "Магазин \"Кидсмода\"",
             "address": "ул. Демократическая, д. 38Е",
             "brand": "no",
             "latitude": "43.424791",
             "longitude": "39.925578",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ставрополь",
@@ -2223,8 +2450,10 @@
             "brand": "no",
             "latitude": "45.037662",
             "longitude": "41.944721",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ставрополь",
@@ -2233,8 +2462,10 @@
             "brand": "no",
             "latitude": "45.060885",
             "longitude": "41.929064",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ставрополь",
@@ -2243,8 +2474,10 @@
             "brand": "no",
             "latitude": "45.006654",
             "longitude": "41.920233",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ставрополь",
@@ -2254,8 +2487,9 @@
             "latitude": "44.997470",
             "longitude": "41.923144",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Сургут",
@@ -2278,9 +2512,9 @@
             "latitude": "61.253944",
             "longitude": "73.433430",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Сухум",
@@ -2289,8 +2523,10 @@
             "brand": "no",
             "latitude": "43.001188",
             "longitude": "41.021118",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Тамбов",
@@ -2299,8 +2535,10 @@
             "brand": "no",
             "latitude": "52.712573",
             "longitude": "41.462847",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Тамбов",
@@ -2309,8 +2547,10 @@
             "brand": "no",
             "latitude": "52.722905",
             "longitude": "41.448186",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Тамбов",
@@ -2319,8 +2559,10 @@
             "brand": "no",
             "latitude": "52.724159",
             "longitude": "41.457071",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Тамбов",
@@ -2329,8 +2571,10 @@
             "brand": "no",
             "latitude": "52.766762",
             "longitude": "41.401142",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Тверь",
@@ -2339,9 +2583,10 @@
             "brand": "no",
             "latitude": "56.853720",
             "longitude": "35.865292",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Тольятти",
@@ -2350,7 +2595,10 @@
             "brand": "yes",
             "latitude": "53.517908",
             "longitude": "49.271902",
+            "pulka": "yes",
+            "ceremony": "yes",
             "school": "yes",
+            "life": "yes",
             "phone": "+7(8482)98-00-45"
         },
         {
@@ -2361,8 +2609,9 @@
             "latitude": "56.467235",
             "longitude": "84.965894",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Томск",
@@ -2371,19 +2620,22 @@
             "brand": "no",
             "latitude": "56.465166",
             "longitude": "84.969738",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Томск",
             "name": "Магазин \"Dodpetto\"",
-            "address": "ТЦ ЦУМ, пр-т Ленина, 121",
+            "address": "ТЦ ЦУМ, пр-т Ленина, 121 ",
             "brand": "no",
             "latitude": "56.490193",
             "longitude": "84.948951",
             "pulka": "yes",
-            "phone": " "
+            "ceremony": " ",
+            "school": " ",
+            "life": " "
         },
         {
             "city": "Тюмень",
@@ -2414,12 +2666,14 @@
         {
             "city": "Усолье-Сибирское",
             "name": "Магазин \"Бульвар дети\"",
-            "address": "Ленинский проспект, 66",
+            "address": "Ленинский проспект, 66 ",
             "brand": "no",
             "latitude": "52.732353",
             "longitude": "103.664229",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Уссурийск",
@@ -2429,9 +2683,9 @@
             "latitude": "43.793486",
             "longitude": "131.954242",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Усть-Каменогорск",
@@ -2440,9 +2694,10 @@
             "brand": "no",
             "latitude": "49.949640",
             "longitude": "82.613754",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Уфа",
@@ -2452,9 +2707,9 @@
             "latitude": "54.738359",
             "longitude": "55.952843",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Уфа",
@@ -2463,8 +2718,10 @@
             "brand": "no",
             "latitude": "54.741410",
             "longitude": "56.026918",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Ухта",
@@ -2473,8 +2730,10 @@
             "brand": "no",
             "latitude": "63.561837",
             "longitude": "53.685477",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Хабаровск",
@@ -2484,9 +2743,9 @@
             "latitude": "48.484846",
             "longitude": "135.072941",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Хабаровск",
@@ -2496,9 +2755,9 @@
             "latitude": "48.488034",
             "longitude": "135.084152",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Хасавюрт",
@@ -2510,8 +2769,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Хасавюрт",
@@ -2520,8 +2778,10 @@
             "brand": "no",
             "latitude": "43.241261",
             "longitude": "46.578932",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Химки",
@@ -2530,8 +2790,10 @@
             "brand": "no",
             "latitude": "55.909837",
             "longitude": "37.398186",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Химки",
@@ -2540,20 +2802,10 @@
             "brand": "no",
             "latitude": "55.899265",
             "longitude": "37.408903",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
-        },
-        {
-            "city": "Химки",
-            "name": "\"СТОКМАНН\"",
-            "address": "ТЦ \"МЕГА\", Московская область, г. Химки, микрорайон ИКЕА, корпус 2",
-            "brand": "no",
-            "latitude": "55.911143",
-            "longitude": "37.396800",
-            "pulka": "yes",
-            "ceremony": "yes",
-            "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Челябинск",
@@ -2565,8 +2817,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Челябинск",
@@ -2575,8 +2826,10 @@
             "brand": "no",
             "latitude": "55.160936",
             "longitude": "61.410306",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Черкесск",
@@ -2585,8 +2838,10 @@
             "brand": "no",
             "latitude": "44.224208",
             "longitude": "42.047318",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Чита",
@@ -2596,8 +2851,9 @@
             "latitude": "52.030383",
             "longitude": "113.509520",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Чита",
@@ -2609,8 +2865,7 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Электросталь",
@@ -2619,8 +2874,10 @@
             "brand": "no",
             "latitude": "55.812990",
             "longitude": "38.430269",
+            "pulka": " ",
+            "ceremony": " ",
             "school": "yes",
-            "phone": " "
+            "life": " "
         },
         {
             "city": "Южно-Сахалинск",
@@ -2630,9 +2887,9 @@
             "latitude": "46.936652",
             "longitude": "142.752989",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Южно-Сахалинск",
@@ -2642,9 +2899,9 @@
             "latitude": "46.900367",
             "longitude": "142.742227",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
+            "life": "yes"
         },
         {
             "city": "Якутск",
@@ -2654,8 +2911,8 @@
             "latitude": "62.037321",
             "longitude": "129.758418",
             "pulka": "yes",
+            "ceremony": " ",
             "school": "yes",
-            "life": "yes",
-            "phone": " "
-                }
-              ]
+            "life": "yes"
+        }
+    ]
