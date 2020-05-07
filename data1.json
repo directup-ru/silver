@@ -1,4 +1,5 @@
-[
+{
+    "Лист1": [
         {
             "city": "Адлер",
             "name": "Магазин \"Дети и мода\"",
@@ -9,7 +10,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Аксай",
@@ -21,7 +23,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Алматы",
@@ -33,7 +36,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ангарск",
@@ -45,7 +49,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ангарск",
@@ -57,7 +62,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Ангарск",
@@ -69,7 +75,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Армавир",
@@ -81,7 +88,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "аул Новая Адыгея",
@@ -93,7 +101,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ахмат-Юрт",
@@ -105,7 +114,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Балашиха",
@@ -117,7 +127,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Белгород",
@@ -129,7 +140,8 @@
             "pulka": " ",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Благовещенск",
@@ -141,7 +153,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Брянск",
@@ -166,7 +179,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Владивосток",
@@ -178,7 +192,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Владивосток",
@@ -190,7 +205,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Владивосток",
@@ -202,7 +218,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Владивосток",
@@ -214,7 +231,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Владикавказ",
@@ -226,7 +244,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Владикавказ",
@@ -238,7 +257,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Владикавказ",
@@ -250,7 +270,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Владикавказ",
@@ -262,7 +283,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Владикавказ",
@@ -274,7 +296,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Владимир",
@@ -286,7 +309,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Владимир",
@@ -298,7 +322,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Волгоград",
@@ -310,7 +335,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Воронеж",
@@ -322,7 +348,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Воронеж",
@@ -334,7 +361,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Воскресенск",
@@ -346,7 +374,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Грозный",
@@ -358,7 +387,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Грозный",
@@ -370,7 +400,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Грозный",
@@ -382,7 +413,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Дзержинский",
@@ -394,7 +426,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Екатеринбург",
@@ -406,7 +439,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Екатеринбург",
@@ -418,7 +452,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Екатеринбург",
@@ -430,7 +465,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Екатеринбург",
@@ -442,7 +478,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Екатеринбург",
@@ -454,7 +491,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Екатеринбург",
@@ -466,7 +504,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Екатеринбург",
@@ -478,7 +517,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Екатеринбург",
@@ -490,7 +530,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Иваново",
@@ -502,7 +543,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ижевск",
@@ -514,7 +556,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Ижевск",
@@ -526,7 +569,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Избербаш",
@@ -538,7 +582,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Иркутск",
@@ -550,7 +595,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Иркутск",
@@ -562,7 +608,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Иркутск",
@@ -574,7 +621,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Иркутск",
@@ -586,7 +634,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Иркутск",
@@ -598,7 +647,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Истра",
@@ -610,7 +660,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Казань",
@@ -622,7 +673,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Казань",
@@ -634,7 +686,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Калининград",
@@ -646,7 +699,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Каспийск",
@@ -658,7 +712,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Кемерово",
@@ -670,7 +725,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Кемерово",
@@ -682,7 +738,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Кизилюрт",
@@ -694,7 +751,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Кизляр",
@@ -706,7 +764,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Киржач",
@@ -718,7 +777,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Красногорск",
@@ -730,7 +790,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Красногорск",
@@ -742,7 +803,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Краснодар",
@@ -767,7 +829,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Краснодар",
@@ -779,7 +842,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Краснодар",
@@ -791,7 +855,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Краснодар",
@@ -803,7 +868,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Кубинка",
@@ -815,7 +881,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Курск",
@@ -827,7 +894,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Курск",
@@ -839,7 +907,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Курск",
@@ -851,7 +920,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Липецк",
@@ -863,7 +933,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Липецк",
@@ -875,7 +946,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Липецк",
@@ -887,7 +959,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Махачкала",
@@ -912,7 +985,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Махачкала",
@@ -924,7 +998,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Махачкала",
@@ -936,7 +1011,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Махачкала",
@@ -948,7 +1024,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Махачкала",
@@ -960,7 +1037,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1011,7 +1089,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1049,7 +1128,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1061,7 +1141,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1073,7 +1154,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1085,7 +1167,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1097,7 +1180,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1109,7 +1193,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1121,7 +1206,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1133,7 +1219,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1145,7 +1232,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1157,7 +1245,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1169,7 +1258,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1181,7 +1271,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1193,7 +1284,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1205,7 +1297,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1217,7 +1310,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1229,7 +1323,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1241,7 +1336,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1253,7 +1349,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1265,7 +1362,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1277,7 +1375,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1289,7 +1388,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1301,7 +1401,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1313,7 +1414,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1325,7 +1427,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1337,7 +1440,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1349,7 +1453,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1361,7 +1466,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1373,7 +1479,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1385,7 +1492,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1397,7 +1505,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1409,7 +1518,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1421,7 +1531,8 @@
             "pulka": " ",
             "ceremony": "yes",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1433,7 +1544,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1445,7 +1557,8 @@
             "pulka": " ",
             "ceremony": "yes",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1457,7 +1570,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1469,7 +1583,8 @@
             "pulka": " ",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1481,7 +1596,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1493,7 +1609,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1505,7 +1622,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1517,7 +1635,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1529,7 +1648,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1541,7 +1661,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1553,7 +1674,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1565,7 +1687,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Москва",
@@ -1577,7 +1700,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Московская область",
@@ -1589,7 +1713,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Московская область",
@@ -1601,7 +1726,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Московская область",
@@ -1613,7 +1739,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Московская область",
@@ -1625,7 +1752,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Мурманск",
@@ -1637,7 +1765,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Набережные Челны",
@@ -1649,7 +1778,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Набережные Челны",
@@ -1661,7 +1791,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Набережные Челны",
@@ -1673,7 +1804,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Назрань",
@@ -1685,7 +1817,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Нальчик",
@@ -1697,7 +1830,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Наро-Фоминск",
@@ -1709,7 +1843,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Находка",
@@ -1721,7 +1856,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Находка",
@@ -1733,7 +1869,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Нижневартовск",
@@ -1745,7 +1882,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Нижний Новгород",
@@ -1757,7 +1895,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Нижний Новгород",
@@ -1769,7 +1908,8 @@
             "pulka": " ",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Нижний Тагил",
@@ -1781,7 +1921,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Нижний Тагил",
@@ -1793,7 +1934,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Новороссийск",
@@ -1805,7 +1947,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Новосибирск",
@@ -1817,7 +1960,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Новосибирск",
@@ -1829,7 +1973,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Новосибирск",
@@ -1841,7 +1986,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Новосибирск",
@@ -1853,7 +1999,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ногинск",
@@ -1865,7 +2012,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Ноябрьск",
@@ -1877,7 +2025,8 @@
             "pulka": " ",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Обнинск",
@@ -1889,7 +2038,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Обнинск",
@@ -1901,7 +2051,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Одинцово",
@@ -1913,7 +2064,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Октябрьский",
@@ -1925,7 +2077,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Орел",
@@ -1937,7 +2090,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Оренбург",
@@ -1949,7 +2103,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Оренбург",
@@ -1961,7 +2116,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Оренбург",
@@ -1973,7 +2129,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Орск",
@@ -1985,7 +2142,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Пермь",
@@ -1997,7 +2155,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Пермь",
@@ -2009,7 +2168,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Пермь",
@@ -2021,7 +2181,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Пермь",
@@ -2033,7 +2194,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Петропавловск-Камчатский",
@@ -2045,7 +2207,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Пятигорск",
@@ -2057,7 +2220,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Пятигорск",
@@ -2069,7 +2233,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Республика Адыгея",
@@ -2081,7 +2246,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Реутов",
@@ -2093,7 +2259,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ростов-на-Дону",
@@ -2105,7 +2272,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Ростов-на-Дону",
@@ -2117,7 +2285,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Ростов-на-Дону",
@@ -2129,7 +2298,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ростов-на-Дону",
@@ -2141,7 +2311,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Рязань",
@@ -2153,7 +2324,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "с.Каякент",
@@ -2165,7 +2337,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "с.Каякент",
@@ -2177,7 +2350,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Самара",
@@ -2189,7 +2363,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Самара",
@@ -2201,7 +2376,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Самара",
@@ -2213,7 +2389,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Самара",
@@ -2225,7 +2402,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2237,7 +2415,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2249,7 +2428,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2261,7 +2441,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2273,7 +2454,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2285,7 +2467,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2297,7 +2480,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2309,7 +2493,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2321,7 +2506,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2333,7 +2519,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Санкт-Петербург",
@@ -2345,7 +2532,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Саратов",
@@ -2357,7 +2545,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Саратов",
@@ -2369,7 +2558,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Семей",
@@ -2381,7 +2571,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Семей",
@@ -2393,7 +2584,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Смоленск",
@@ -2405,7 +2597,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Сочи",
@@ -2417,7 +2610,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Сочи",
@@ -2429,7 +2623,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Сочи - Адлер",
@@ -2441,7 +2636,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ставрополь",
@@ -2453,7 +2649,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ставрополь",
@@ -2465,7 +2662,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ставрополь",
@@ -2477,7 +2675,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ставрополь",
@@ -2489,7 +2688,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Сургут",
@@ -2514,7 +2714,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Сухум",
@@ -2526,7 +2727,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Тамбов",
@@ -2538,7 +2740,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Тамбов",
@@ -2550,7 +2753,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Тамбов",
@@ -2562,7 +2766,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Тамбов",
@@ -2574,7 +2779,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Тверь",
@@ -2586,7 +2792,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Тольятти",
@@ -2611,7 +2818,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Томск",
@@ -2623,7 +2831,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Томск",
@@ -2635,7 +2844,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": " ",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Тюмень",
@@ -2673,7 +2883,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Уссурийск",
@@ -2685,7 +2896,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Усть-Каменогорск",
@@ -2697,7 +2909,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Уфа",
@@ -2709,7 +2922,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Уфа",
@@ -2721,7 +2935,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Ухта",
@@ -2733,7 +2948,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Хабаровск",
@@ -2745,7 +2961,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Хабаровск",
@@ -2757,7 +2974,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Хасавюрт",
@@ -2769,7 +2987,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Хасавюрт",
@@ -2781,7 +3000,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Химки",
@@ -2793,7 +3013,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Химки",
@@ -2805,7 +3026,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Челябинск",
@@ -2817,7 +3039,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Челябинск",
@@ -2829,7 +3052,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Черкесск",
@@ -2841,7 +3065,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Чита",
@@ -2853,7 +3078,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Чита",
@@ -2865,7 +3091,8 @@
             "pulka": "yes",
             "ceremony": "yes",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Электросталь",
@@ -2877,7 +3104,8 @@
             "pulka": " ",
             "ceremony": " ",
             "school": "yes",
-            "life": " "
+            "life": " ",
+            "phone": " "
         },
         {
             "city": "Южно-Сахалинск",
@@ -2889,7 +3117,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Южно-Сахалинск",
@@ -2901,7 +3130,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         },
         {
             "city": "Якутск",
@@ -2913,6 +3143,8 @@
             "pulka": "yes",
             "ceremony": " ",
             "school": "yes",
-            "life": "yes"
+            "life": "yes",
+            "phone": " "
         }
     ]
+}
