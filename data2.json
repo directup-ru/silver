@@ -26,17 +26,30 @@
             "longitude": "38.983847"
         },
         {
-            "name": "ТРЦ \"Этажи\"",
-            "address": "жк \"Золотые Ключи\" ул. Азиза Алиева 18",
-            "phone": "+7 (988) 291-22-11",
+            "name": "ЖК \"Золотые Ключи\"",
+            "address": "ул. Азиза Алиева 18",
+            "phone": "+7(988) 293-05-30",
             "city": "Махачкала",
             "brand": "yes",
             "Silver Spoon": "yes",
             "School and life": "yes",
             "Ceremony": "yes",
             "Pulka": "yes",
-            "latitude": "42.965407",
-            "longitude": "47.489588"
+            "latitude": "42.966200",
+            "longitude": "47.488530"
+        },
+        {
+            "name": "ТРЦ \"Этажи\"",
+            "address": "пр-т Имама Шамиля, д. 61",
+            "phone": "+7(988) 291-22-11",
+            "city": "Махачкала",
+            "brand": "yes",
+            "Silver Spoon": "yes",
+            "School and life": "yes",
+            "Ceremony": "yes",
+            "Pulka": "yes",
+            "latitude": "42.959042",
+            "longitude": "47.506137"
         },
         {
             "name": "ТРЦ \"Авеню\"",
