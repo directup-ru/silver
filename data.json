@@ -143,17 +143,30 @@
             "longitude": "37.607026"
         },
         {
-            "name": "ТЦ \"Армада 2\"",
-            "address": "Нежинское шоссе, д. 2А, 2 этаж",
-            "phone": "+7(903)391-29-44",
-            "city": "Оренбург",
+            "name": "ТЦ \"Columbus\" ",
+            "address": "Кировоградская ул., 13А (3 уровень)",
+            "phone": "+7(903) 294-72-41 ",
+            "city": "Москва",
             "brand": "yes",
             "Silver Spoon": "yes",
             "School and life": "yes",
             "Ceremony": "yes",
             "Pulka": "yes",
-            "latitude": "51.775851",
-            "longitude": "55.198402"
+            "latitude": "55.612182",
+            "longitude": "37.607026"
+        },
+        {
+            "name": "ТРЦ \"Щелковский\"",
+            "address": "Щелковское шоссе, 75, 4 этаж",
+            "phone": "+7(916) 304-46-99",
+            "city": "Москва",
+            "brand": "yes",
+            "Silver Spoon": "yes",
+            "School and life": "yes",
+            "Ceremony": "yes",
+            "Pulka": "yes",
+            "latitude": "55.811004",
+            "longitude": "37.800806"
         },
         {
             "name": "ТРЦ \"Золотой Вавилон\"",
