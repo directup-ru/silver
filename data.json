@@ -221,6 +221,19 @@
             "longitude": "65.559867"
         },
         {
+            "name": "ТЦ \"Green Park\"",
+            "address": "ул. Ленина д. 8, 2 этаж",
+            "phone": "+7(922)-779-68-08",
+            "city": "Нижневартовск",
+            "brand": "yes",
+            "Silver Spoon": "yes",
+            "School and life": "yes",
+            "Ceremony": "yes",
+            "Pulka": "yes",
+            "latitude": "60.938484",
+            "longitude": "76.556261"
+        },
+        {
             "name": "ТЦ \"Родник\"",
             "address": "ул. Труда, д. 203, 3 этаж",
             "phone": "+7(958)158-09-17",
