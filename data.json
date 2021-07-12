@@ -13,6 +13,19 @@
             "longitude": "34.315877"
         },
         {
+            "name": "ТРЦ \"Фестиваль\"",
+            "address": "Мичуринский пр., 3, 3 этаж",
+            "phone": "+7(985)728-38-73",
+            "city": "Москва",
+            "brand": "yes",
+            "Silver Spoon": "yes",
+            "School and life": "yes",
+            "Ceremony": "yes",
+            "Pulka": "yes",
+            "latitude": "55.704460",
+            "longitude": "37.512765"
+        },
+        {
             "name": "ТЦ \"Красная площадь\"",
             "address": "ул. Дзержинского, д. 100, 3 этаж",
             "phone": "+7(960)497-09-79",
