@@ -52,6 +52,19 @@
             "longitude": "38.983847"
         },
         {
+            "name": "ТРЦ \"OZ МОЛЛ\"",
+            "address": "Крылатая ул., 2, 2-й этаж",
+            "phone": "+7(918)274-50-20",
+            "city": "Краснодар",
+            "brand": "yes",
+            "Silver Spoon": "yes",
+            "School and life": "yes",
+            "Ceremony": "yes",
+            "Pulka": "yes",
+            "latitude": "45.011446",
+            "longitude": "39.122529"
+        },
+        {
             "name": "ЖК \"Золотые Ключи\"",
             "address": "ул. Азиза Алиева, д. 8",
             "phone": "+7(988) 293-05-30",
